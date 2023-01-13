@@ -10,6 +10,7 @@
 
 ### Language And Framework :
 <span><img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width=60px/></span> &nbsp;
+<span><img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width=60px/></span> &nbsp;
 <span><img src="https://cdn-icons-png.flaticon.com/512/919/919831.png" width=60px/></span> &nbsp;
 <span><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width=60px/></span> &nbsp;
 <span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/800px-Tailwind_CSS_Logo.svg.png" height=50px/></span> &nbsp;
