@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vincent Vuram
 - 👀 I’m interested in Full-Stack Development/Frontend Developement
-- 🌱 I’m currently learning MERN-Stack, Next Js
+- 🌱 I’m currently learning MERN-Stack, React Js in Typescript, Next Js
 - 📫 How to reach me : 
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   <a href="https://www.linkedin.com/in/vincent-vuram-0426a2141/"><img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=w240-h480-rw" width=40px alt="LinkedIn"/></a>&nbsp;
