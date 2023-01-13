@@ -12,7 +12,7 @@
 <span><img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width=60px/></span> &nbsp;
 <span><img src="https://cdn-icons-png.flaticon.com/512/919/919831.png" width=60px/></span> &nbsp;
 <span><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width=60px/></span> &nbsp;
-<span><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--zKQJKp9C--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/i/1jqa96mtdymq7ydgjqf1.png" width=50px/></span> &nbsp;
+<span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/800px-Tailwind_CSS_Logo.svg.png" height=50px/></span> &nbsp;
 <span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width=60px/></span> &nbsp;
 <span><img src="https://user-images.githubusercontent.com/88813613/212272886-ef6e7fa3-7d25-4242-bc08-784525544fb4.png" width=60px/></span> &nbsp;
 <span><img src="https://redux-saga.js.org//img/Redux-Saga-Logo-Portrait.png" width=60px/></span> &nbsp;
@@ -48,7 +48,7 @@ You can navigate through a Github profile using the table provided below
             </th>
           </tr>
           <tr>
-            <th>techwondoe-frontend</th>
+            <th>techwondoe-frontend Interview Task</th>
             <th>React</th>
             <th>
                 <a href="https://github.com/vincevise/techwondoe-frontend">Link</a>
