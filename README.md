@@ -83,7 +83,7 @@ You can navigate through a Github profile using the table provided below
           <tr>
             <th>Shopping-Cart App</th>
             <th>React</th>
-            <th><a href="https://github.com/vincevise/Shopping-cart-app">Link</a> </th>
+            <th><a href="https://github.com/vincevise/shoppingcart-app">Link</a> </th>
           </tr>
           <tr>
             <th>Movie App</th>
