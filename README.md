@@ -39,20 +39,12 @@ You can navigate through a Github profile using the table provided below
           </tr>
         </thead>
         <tbody>
-         <tr>
-            <th>Prayosha Architetcs</th>
-            <th>Full stack</th>
-            <th>
-                <a href="https://github.com/vincevise/Prayosha-Architects">Link</a>
-            </th>    
-          </tr>
+          
           <tr>
             <th>E-commerce</th>
             <th>MERN</th>
             <th>
-              <a href="https://github.com/vincevise/E-commerce">
-                link
-              </a>
+              <a href="https://github.com/vincevise/E-commerce">link</a>
             </th>
           </tr>
          
