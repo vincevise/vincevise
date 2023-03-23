@@ -39,7 +39,6 @@ You can navigate through a Github profile using the table provided below
           </tr>
         </thead>
         <tbody>
-          
           <tr>
             <th>E-commerce</th>
             <th>MERN</th>
@@ -47,7 +46,6 @@ You can navigate through a Github profile using the table provided below
               <a href="https://github.com/vincevise/E-commerce">link</a>
             </th>
           </tr>
-         
           <tr>
             <th>techwondoe-frontend Interview Task</th>
             <th>React</th>
