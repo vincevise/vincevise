@@ -40,6 +40,13 @@ You can navigate through a Github profile using the table provided below
         </thead>
         <tbody>
           <tr>
+            <th>SoccioGram</th>
+            <th>MERN</th>
+            <th>
+              <a href="https://github.com/vincevise/socciogram">link</a>
+            </th>
+          </tr>
+          <tr>
             <th>Prayosha Architects website</th>
             <th>Full Stack</th>
             <th>
