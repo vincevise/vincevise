@@ -39,8 +39,43 @@ You can navigate through a Github profile using the table provided below
           </tr>
         </thead>
         <tbody>
+          <tr>
+            <th>Mobilicis Interview Task</th>
+            <th>MERN</th>
+            <th>
+              <a href="https://github.com/vincevise/Mobilicis-interview-frontend">link</a>
+            </th>
+          </tr>
          <tr>
-            <th>Samespace-interview</th>
+            <th>PanOrbit Interview Task</th>
+            <th>React</th>
+            <th>
+              <a href="https://github.com/vincevise/panorbit-interview">link</a>
+            </th>
+          </tr>
+          <tr>
+            <th>NeoFi Interview Task</th>
+            <th>React</th>
+            <th>
+              <a href="https://github.com/vincevise/Neo-Fi-Interview">link</a>
+            </th>
+          </tr>
+         <tr>
+            <th>Breeze-ai Interview Task</th>
+            <th>Firebase</th>
+            <th>
+              <a href="https://github.com/vincevise/breeze-ai-application">link</a>
+            </th>
+          </tr>
+         <tr>
+            <th>Streams</th>
+            <th>Node Js</th>
+            <th>
+              <a href="https://github.com/vincevise/nodejs-streams-codersgyan">link</a>
+            </th>
+          </tr>
+          <tr>
+            <th>Samespace Interview Task</th>
             <th>MERN-GQL</th>
             <th>
               <a href="https://github.com/vincevise/samespace-interview">link</a>
